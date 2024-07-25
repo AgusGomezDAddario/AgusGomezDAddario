@@ -15,7 +15,7 @@
 
 ## Contacto
 <p align="left">
-  <a href="www.linkedin.com/in/agustingomezdaddario">
+  <a href="https://www.linkedin.com/in/agustingomezdaddario">
   <img align="left" alt="Agustin Gomez D'Addario LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
   </a>
 
