@@ -20,6 +20,7 @@
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.linkedin.com/in/agustingomezdaddario" title="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+  [![Curriculum con Bootstrap](https://img.shields.io/badge/Website-https%3A%//curriculum-with-bootstrap.vercel.app/-blue)](https://curriculum-with-bootstrap.vercel.app/)
 </p>
 
 
