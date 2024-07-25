@@ -1,40 +1,31 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagen de una computadora" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   📖 Soy Agustín Gomez D'Addario, estudiante de Ingeniería en Sistemas de Información
   en la Universidad Tecnológica Nacional Facultad Regional La Plata 📖
 </p>
 
+## Lenguajes y Herramientas
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+## Contacto
 <p align="left">
-  💼 Herramientas: React, React Native, Drupal, Bootstrap, JavaScript, Python
+  <a href="www.linkedin.com/in/agustingomezdaddario">
+  <img align="left" alt="Agustin Gomez D'Addario LinkedIn" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+  </a>
+
+  <a href="mailto:gomezdaddarioagus@gmail.com">
+  <img align="left" alt="Agustin Gomez D'Addario Gmail" width="22px" src="https://icongr.am/devicon/google-original.svg?size=128&color=70c8ff" />
+  </a>
+
+  <a href="https://curriculum-with-bootstrap.vercel.app/">
+  <img align="left" alt="Agustin Gomez D'Addario Web" width="22px" src="https://icongr.am/clarity/application.svg?size=128&color=70c8ff" />
+  </a>
 </p>
-
-<p align="left">
-  ✉️ Contacto ⤵️
-</p>
-
-<p align="left">
-  <a href="mailto:gomezdaddarioagus@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/agustingomezdaddario" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  [![Curriculum con Bootstrap](https://img.shields.io/badge/Website-https%3A%//curriculum-with-bootstrap.vercel.app/-blue)](https://curriculum-with-bootstrap.vercel.app/)
-</p>
-
-
-<!--
-**AgusGomezDAddario/AgusGomezDAddario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
