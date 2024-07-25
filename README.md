@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagen de una computadora" min-width="400px" max-width="400px" width="400px" align="right">
-
 <p align="left"> 
   📖 Soy Agustín Gomez D'Addario, estudiante de Ingeniería en Sistemas de Información
   en la Universidad Tecnológica Nacional Facultad Regional La Plata 📖
