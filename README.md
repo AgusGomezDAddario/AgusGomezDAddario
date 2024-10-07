@@ -9,9 +9,13 @@
 <p align="left"> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code> </p>
 
 ## 📫 Contacto:
-<p align="left"> <a href="https://www.linkedin.com/in/agustingomezdaddario" target="_blank"> <img align="left" alt="LinkedIn" width="30px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" /> </a> <a href="mailto:gomezdaddarioagus@gmail.com" target="_blank"> <img align="left" alt="Email" width="30px" src="https://icongr.am/devicon/google-original.svg?size=128&color=70c8ff" /> </a> <a href="https://curriculum-with-bootstrap.vercel.app/" target="_blank"> <img align="left" alt="Portfolio" width="30px" src="https://icongr.am/clarity/application.svg?size=128&color=70c8ff" /> </a> </p>
+<p align="left"> 
+  <a href="https://www.linkedin.com/in/agustingomezdaddario" target="_blank"> <img align="left" alt="LinkedIn" width="30px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" /> </a> 
+  <a href="mailto:gomezdaddarioagus@gmail.com" target="_blank"> <img align="left" alt="Email" width="30px" src="https://icongr.am/devicon/google-original.svg?size=128&color=70c8ff" /> </a> 
+  <a href="https://curriculum-with-bootstrap.vercel.app/" target="_blank"> <img align="left" alt="Portfolio" width="30px" src="https://icongr.am/clarity/application.svg?size=128&color=70c8ff" /> </a> 
+</p>
 
-"" 🔥 Proyectos Destacados:
+## 🔥 Proyectos Destacados:
 Memorium: Aplicación para mejorar la memoria de trabajo en personas mayores, con seguimiento de profesionales de la salud.
 Mi Curriculum: Portafolio web personal.
 
