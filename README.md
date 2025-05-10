@@ -1,8 +1,8 @@
 # Hi there 👋 Welcome to my GitHub!
-<p align="left"> Soy <strong>Agustín Gomez D'Addario</strong>, estudiante de <strong>Ingeniería en Sistemas de Información</strong> en la <strong>Universidad Tecnológica Nacional, Facultad Regional La Plata</strong>. Estoy enfocado en desarrollar soluciones innovadoras a través de tecnologías como <strong>React</strong>, <strong>Python</strong> y <strong>SQL</strong>, y me apasiona crear aplicaciones que mejoren la experiencia de los usuarios. </p>
+<p align="left"> Soy <strong>Agustín Gomez D'Addario</strong>, <strong>Ingeniero en Sistemas de Información</strong> de la <strong>Universidad Tecnológica Nacional, Facultad Regional La Plata</strong>. Estoy enfocado en desarrollar soluciones innovadoras a través de tecnologías como <strong>React</strong>, <strong>Python</strong> y <strong>SQL</strong>, y me apasiona crear aplicaciones que mejoren la experiencia de los usuarios. </p>
 
 ## 🌱 Actualmente:
-- Estoy trabajando en el desarrollo de Memorium, una app que ayuda a las personas mayores a ejercitar su memoria.
+- Estoy trabajando como Analista Funcional en DGSISAN (Dirección General de Sistemas de Información Sanitaria) - Ministerio de Salud en CABA.
 - Aprendiendo y mejorando mis habilidades en desarrollo con React y Python.
 
 ## 💻 Lenguajes y Herramientas:
@@ -18,6 +18,7 @@
 
 ## 🔥 Proyectos Destacados:
 Memorium: Aplicación para mejorar la memoria de trabajo en personas mayores, con seguimiento de profesionales de la salud.
+SIGEHOS: Sistema de información sanitaria que busca informatizar la atención de pacientes en todos los hospitales de CABA.
 Mi Curriculum: Portafolio web personal.
 
 ## 🚀 Objetivos:
