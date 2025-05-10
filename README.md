@@ -17,10 +17,9 @@
 </p> <br/>
 
 ## 🔥 Proyectos Destacados:
-Memorium: Aplicación para mejorar la memoria de trabajo en personas mayores, con seguimiento de profesionales de la salud.
-SIGEHOS: Sistema de información sanitaria que busca informatizar la atención de pacientes en todos los hospitales de CABA.
-Mi Curriculum: Portafolio web personal.
+- Memorium: Aplicación para mejorar la memoria de trabajo en personas mayores, con seguimiento de profesionales de la salud.
+- SIGEHOS: Sistema de información sanitaria que busca informatizar la atención de pacientes en todos los hospitales de CABA.
 
 ## 🚀 Objetivos:
-Desarrollar nuevas aplicaciones que resuelvan problemas reales.
-Seguir mejorando mis habilidades en desarrollo full stack y machine learning.
+- Desarrollar nuevas aplicaciones que resuelvan problemas reales.
+- Seguir mejorando mis habilidades en desarrollo full stack y machine learning.
